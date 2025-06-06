@@ -90,16 +90,14 @@ export default function Home() {
                     {question.choices.map((choice, index) => (
                         <li
                             key={index}
-                            className={`p-3 border border-[rgba(255,255,255,0.2)] rounded-lg cursor-pointer transition-all duration-300
+                            className={`p-3 border border-[rgba(255,255,255,0.2)] bg-gray-800 rounded-lg cursor-pointer transition-all duration-300
             ${selected === null
                                     ? "hover:bg-gray-700"
                                     : index === selected
                                         ? index === question.correct
                                             ? "bg-green-500"
                                             : "bg-red-600 opacity-50"
-                                        : index === question.correct
-                                            ? "bg-green-500"
-                                            : "bg-gray-800"
+                                        : index === question.correct && "bg-green-500"
                                 }
           `}
                             onClick={() => handleAnswer(index)}
