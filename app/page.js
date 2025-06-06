@@ -130,7 +130,7 @@ export default function Home() {
                         />
                     </div>
 
-                    <div className="w-[20%] md:w-[10%] text-sm text-right">
+                    <div className="w-[20%] md:w-[10%] text-xs md:text-sm text-right">
                         {mastered.size} / {questions.length}
                     </div>
                 </div>
