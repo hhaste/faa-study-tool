@@ -315,6 +315,15 @@
         "correct": 0
     },
     {
+        "question": "(Refer to Figure 68.) What does the line from point A to point B of the wind triangle represent?",
+        "choices": [
+            "Groundspeed and true heading.",
+            "True course and groundspeed.",
+            "True heading and airspeed."
+        ],
+        "correct": 2
+    },
+    {
         "question": "In the Northern Hemisphere, a magnetic compass will normally indicate initially a turn toward the east if",
         "choices": [
             "an aircraft is accelerated while on a north heading.",
@@ -664,5 +673,77 @@
             "North or south."
         ],
         "correct": 2
+    },
+    {
+        "question": "With certain exceptions, when must each occupant of an aircraft wear an approved parachute?",
+        "choices": [
+            "When a door is removed from the aircraft to facilitate parachute jumpers.",
+            "When intentionally banking in excess of 30°.",
+            "When intentionally pitching the nose of the aircraft up or down 30° or more."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "With respect to the certification of aircraft, which is a class of aircraft?",
+        "choices": [
+            "Normal, utility, acrobatic, limited.",
+            "Airplane, rotorcraft, glider, balloon.",
+            "Transport, restricted, provisional."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "With respect to the certification of airmen, which is a class of aircraft?",
+        "choices": [
+            "Lighter-than-air, airship, hot air balloon, gas balloon.",
+            "Single-engine land and sea, multiengine land and sea.",
+            "Airplane, rotorcraft, glider, lighter-than-air."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "With respect to the certification of aircraft, which is a category of aircraft?",
+        "choices": [
+            "Normal, utility, acrobatic, limited.",
+            "Airplane, rotorcraft, glider.",
+            "Landplane, seaplane."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "With respect to the certification of airmen, which are categories of aircraft?",
+        "choices": [
+            "Gyroplane, helicopter, airship, free balloon.",
+            "Airplane, rotorcraft, glider, lighter-than-air.",
+            "Single-engine land and sea, multiengine land and sea."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "The vertical limit of Class C airspace above the primary airport is normally",
+        "choices": [
+            "4,000 feet AGL.",
+            "3,000 feet AGL.",
+            "1,200 feet AGL."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Parasite drag increases when airspeed is:",
+        "choices": [
+            "Parasite drag always remains constant.",
+            "Increased.",
+            "Decreased."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Which statement is most correct regarding form drag?",
+        "choices": [
+            "Form drag increases as airspeed increases.",
+            "It decreases as the speed of the airplane increases.",
+            "It increases when the weight of the airplane increases."
+        ],
+        "correct": 0
     }
 ]
