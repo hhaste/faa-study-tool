@@ -120,16 +120,16 @@ export default function Home() {
                         Next
                     </button>
 
-                    <div className="w-full bg-gray-700 rounded-full h-4 overflow-hidden">
+                    <div className="w-[40%] md:w-[50%] text-sm text-right">
+                        {mastered.size} / {questions.length}
+                    </div>
+
+                    <div className="w-full bg-gray-700 rounded-full h-6 overflow-hidden">
                         <div
-                            className="bg-blue-600 h-4 transition-all"
+                            className="bg-blue-600 h-6 transition-all"
                             style={{ width: `${progress}%` }}
                             aria-label={`Progress: ${mastered.size} of ${questions.length} questions answered`}
                         />
-                    </div>
-
-                    <div className="w-[30%] md:w-[10%] text-sm text-right">
-                        {mastered.size} / {questions.length}
                     </div>
                 </div>
             </div>
