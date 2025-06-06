@@ -124,9 +124,9 @@ export default function Home() {
                         {mastered.size} / {questions.length}
                     </div>
 
-                    <div className="w-full bg-gray-700 rounded-full h-6 overflow-hidden">
+                    <div className="w-full bg-gray-700 rounded-full h-5 overflow-hidden">
                         <div
-                            className="bg-blue-600 h-6 transition-all"
+                            className="bg-blue-600 h-5 transition-all"
                             style={{ width: `${progress}%` }}
                             aria-label={`Progress: ${mastered.size} of ${questions.length} questions answered`}
                         />
