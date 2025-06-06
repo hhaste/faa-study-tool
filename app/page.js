@@ -44,8 +44,8 @@ export default function Home() {
     if (finished) {
         return (
             <main className="min-h-screen bg-gray-900 text-white p-6 flex flex-col items-center justify-center">
-                <h1 className="text-2xl md:text-xl font-bold mb-4">FAA Knowledge Exam Review</h1>
-                <p className="text-xl md:text-base text-green-400">You&apos;ve mastered all the questions! 🎉</p>
+                <h1 className="text-xl font-bold mb-4">FAA Knowledge Exam Review</h1>
+                <p className="text-green-400">You&apos;ve mastered all the questions! 🎉</p>
                 <button
                     className="mt-12 px-6 py-1 rounded-full bg-blue-600 hover:bg-blue-700 cursor-pointer"
                     onClick={() => setMastered(new Set())}
@@ -82,15 +82,15 @@ export default function Home() {
     return (
         <main className="min-h-screen bg-gray-900 text-white p-6 flex flex-col items-center justify-center relative">
             <div className="max-w-2xl w-full pb-24">
-                <h1 className="text-2xl md:text-xl font-bold mb-8">FAA Knowledge Exam Review</h1>
+                <h1 className="text-xl font-bold mb-8">FAA Knowledge Exam Review</h1>
 
-                <p className="text-xl md:text-base">{question.question}</p>
+                <p>{question.question}</p>
 
                 <ul className="space-y-3 mt-12">
                     {question.choices.map((choice, index) => (
                         <li
                             key={index}
-                            className={`p-3 text-xl md:text-base border border-[rgba(255,255,255,0.2)] rounded-lg cursor-pointer transition-all duration-300
+                            className={`p-3 border border-[rgba(255,255,255,0.2)] rounded-lg cursor-pointer transition-all duration-300
             ${selected === null
                                     ? "hover:bg-gray-700"
                                     : index === selected
@@ -108,7 +108,7 @@ export default function Home() {
                         </li>
                     ))}
                 </ul>
-                <div className="text-xl md:text-base min-h-[2rem] mt-6">{feedback && <p className="font-semibold">{feedback}</p>}</div>
+                <div className="text-base min-h-[2rem] mt-6">{feedback && <p className="font-semibold">{feedback}</p>}</div>
             </div>
 
             <div className="fixed bottom-0 left-0 w-full bg-gray-900 p-4 border-t border-gray-700">
