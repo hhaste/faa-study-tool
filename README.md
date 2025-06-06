@@ -7,3 +7,6 @@ While using Sporty's practice tests, I found out you have to pay for their cours
 - 🔁 Random question each time
 - 📦 Progress saved in local storage
 - 🧠 Interactive quiz-based style
+
+## 🔮 Planned
+This was a rushed 2-hour project so I could start using it ASAP. In the future, I'm hoping to make this a interactive quick study tool where you can create your own study sets. It'll be really easy to either import questions or type them up, and be able to study on the go.
