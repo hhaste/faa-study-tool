@@ -745,5 +745,140 @@
             "It increases when the weight of the airplane increases."
         ],
         "correct": 0
+    },
+    {
+        "question": "At the beginning of a turn from a northerly heading:",
+        "choices": [
+            "The compass will lead the turn.",
+            "The compass will show a turn in the opposite direction.",
+            "The compass will show the correct heading."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Inland fog is most likely:",
+        "choices": [
+            "Advection fog sometimes called sea fog.",
+            "Precipitation Induced fog.",
+            "Radiation Fog sometimes called ground fog."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "To maintain BasicMed privileges, you must complete a BasicMed medical education course within the preceding:",
+        "choices": [
+            "24 calendar months.",
+            "48 calendar months.",
+            "12 calendar months."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Which light signal from the control tower clears a pilot to taxi?",
+        "choices": [
+            "Flashing green.",
+            "Flashing white.",
+            "Steady green."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What feature is associated with a temperature inversion?",
+        "choices": [
+            "An unstable layer of air.",
+            "Chinook winds on mountain slopes.",
+            "A stable layer of air."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Which would most likely cause the cylinder head temperature and engine oil temperature gauges to exceed their normal operating ranges?",
+        "choices": [
+            "Operating with higher-than-normal oil pressure.",
+            "Using fuel that has a higher-than-specified fuel rating.",
+            "Using fuel that has a lower-than-specified fuel rating."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "When flying at a very high AOA with a low airspeed and aft CG, T-tail aircraft are more susceptible to __________ ?",
+        "choices": [
+            "dutch roll",
+            "a deep stall",
+            "adverse yaw"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "A TAF includes:",
+        "choices": [
+            "Wind, visibility, weather phenomena, obstructions to vision, and cloud coverage.",
+            "Wind, visibility, cloud coverage, and cloud tops in feet MSL.",
+            "Wind, obstructions to vision, and cloud tops in feet MSL."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "In order to find pictorial explanations of airport signs and markings, which publication would you consult?",
+        "choices": [
+            "Aeronautical Information Manual (AIM).",
+            "Advisory Circulars (ACs) under subject number 90.",
+            "Chart Supplements."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What is the maximum indicated airspeed you may fly when operating under BasicMed?",
+        "choices": [
+            "250 knots",
+            "180 knots",
+            "200 knots"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "When taxiing with strong quartering tailwinds, which aileron positions should be used?",
+        "choices": [
+            "Aileron down on the downwind side.",
+            "Ailerons neutral.",
+            "Aileron down on the side from which the wind is blowing."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "When performing an approach and landing to a soft field, what is the proper approach angle?",
+        "choices": [
+            "Shallow approach angle.",
+            "Normal approach angle.",
+            "Steep approach angle."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "A special VFR clearance authorizes the pilot of an aircraft to operate VFR while within Class D airspace when the visibility is",
+        "choices": [
+            "at least 3 miles and the aircraft can remain clear of clouds.",
+            "less than 1 mile and the ceiling is less than 1,000 feet.",
+            "at least 1 mile and the aircraft can remain clear of clouds."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Eye movements during daytime collision avoidance scanning should:",
+        "choices": [
+            "be in 30 degree sectors and view each sector for at least 3 seconds.",
+            "use peripheral vision by scanning small sectors and utilizing off-center viewing.",
+            "not exceed 10 degrees and view each sector at least 1 second."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Induced drag increases when airspeed is:",
+        "choices": [
+            "Increased.",
+            "Decreased.",
+            "Increased by a factor of two."
+        ],
+        "correct": 1
     }
 ]
