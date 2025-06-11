@@ -88,24 +88,27 @@ export default function Home() {
 
                 <ul className="space-y-3 mt-12">
                     {question.choices.map((choice, index) => (
-                        <li
-                            key={index}
-                            className={`p-3 border border-[rgba(255,255,255,0.2)] bg-gray-800 rounded-lg cursor-pointer transition-all duration-300
-            ${selected === null
-                                    ? "hover:bg-gray-700"
-                                    : index === selected
-                                        ? index === question.correct
-                                            ? "bg-green-500"
-                                            : "bg-red-600 opacity-50"
-                                        : index === question.correct && "bg-green-500"
-                                }
-          `}
-                            onClick={() => handleAnswer(index)}
-                        >
-                            {choice}
+                        <li key={index}>
+                            <button
+                                type="button"
+                                className={`w-full text-left p-3 border border-[rgba(255,255,255,0.2)] bg-gray-800 rounded-lg cursor-pointer transition-all duration-300
+                                ${selected === null
+                                        ? "hover:bg-gray-700"
+                                        : index === selected
+                                            ? index === question.correct
+                                                ? "bg-green-500"
+                                                : "bg-red-600 opacity-50"
+                                            : index === question.correct && "bg-green-500"
+                                    }
+                                `}
+                                onClick={() => handleAnswer(index)}
+                            >
+                                {choice}
+                            </button>
                         </li>
                     ))}
                 </ul>
+
                 <div className="text-base min-h-[2rem] mt-6">{feedback && <p className="font-semibold">{feedback}</p>}</div>
             </div>
 
