@@ -72,8 +72,6 @@ export default function Home() {
         }
     };
     const handleNext = () => {
-        if (selected === null) return;
-
         setQuestion(previous => randomQuestion(mastered, previous));
         setSelected(null);
         setFeedback(null);
@@ -116,12 +114,14 @@ export default function Home() {
                 <div className="max-w-2xl mx-auto flex items-center gap-4">
                     <button
                         onClick={handleNext}
-                        disabled={selected === null}
-                        className={`px-6 py-1 rounded-full transition
-          ${selected === null ? "bg-gray-600 cursor-not-allowed" : "bg-blue-600 hover:bg-blue-700 cursor-pointer"}`}
+                        className={`px-6 py-1 rounded-full transition cursor-pointer ${selected === null
+                            ? "bg-gray-600"
+                            : "bg-blue-600 hover:bg-blue-700"
+                            }`}
                     >
-                        Next
+                        {selected === null ? "Skip" : "Next"}
                     </button>
+
 
                     <div className="w-[40%] md:w-[50%] text-sm text-right">
                         {mastered.size} / {questions.length}
