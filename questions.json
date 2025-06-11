@@ -1114,5 +1114,23 @@
             "The design of the ailerons."
         ],
         "correct": 1
-    }
+    },{
+    "question": "If your GPS receiver is equipped with WAAS—Wide Area Augmentation System—your position accuracy is:",
+    "choices": [
+        "Twelve meters.",
+        "Five meters.",
+        "Less than three meters."
+    ],
+    "correct": 2
+},{
+    "question": "What effect does high density altitude, as compared to low density altitude, have on propeller efficiency and why?",
+    "choices": [
+        "Efficiency is increased due to less friction on the propeller blades.",
+        "Efficiency is reduced due to the increased force of the propeller in the thinner air.",
+        "Efficiency is reduced because the propeller exerts less force at high density altitudes than at low density altitudes."
+    ],
+    "correct": 2
+}
+
+
 ]
