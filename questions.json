@@ -880,5 +880,239 @@
             "Increased by a factor of two."
         ],
         "correct": 1
+    },
+    {
+        "question": "You are on the ground and see a steady red light signal from the tower. What does it indicate?",
+        "choices": [
+            "Stop.",
+            "Give way to other aircraft and continue circling.",
+            "Taxi clear of the runway in use."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "You have been running an excessively rich mixture for some time now. As a result:",
+        "choices": [
+            "The engine will become severely damaged due to excess fuel vapors.",
+            "The throttle response is greatly increased.",
+            "The spark plugs may become fouled."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Unless otherwise authorized, the maximum indicated airspeed at which aircraft may be flown when at or below 2,500 feet AGL and within 4 nautical miles of the primary airport of Class C airspace is",
+        "choices": [
+            "250 knots.",
+            "200 knots.",
+            "230 knots."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "For a given power setting with a constant-speed, variable pitch propeller:",
+        "choices": [
+            "Low pitch results in high RPM.",
+            "Low pitch results in low RPM.",
+            "High pitch results in high RPM."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "As you are climbing to your cruise altitude, you realize you forgot to lean the mixture control. What happens to fuel/air mixture entering the engine?",
+        "choices": [
+            "The fuel-air mixture becomes richer because the density of air decreases while the amount of fuel remains constant.",
+            "The fuel-air mixture is leaner because the density of air increases while the amount of fuel remains constant.",
+            "Altitude has no effect on the fuel/air mixture in modern airplane engines."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "The recommended entry position to an airport traffic pattern is",
+        "choices": [
+            "to enter 45° at the midpoint of the downwind leg at traffic pattern altitude.",
+            "to cross directly over the airport at traffic pattern altitude and join the downwind leg.",
+            "45° to the base leg just below traffic pattern altitude."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "While taxiing, a pilot sees a red sign ahead with white letters showing the number “33” on it. What does this sign indicate?",
+        "choices": [
+            "The pilot is approaching an entrance to runway 33 at the approach threshold.",
+            "The pilot has 3300 feet of taxiway remaining until the end of the taxiway.",
+            "The pilot is approaching an entrance to runway 33 at the departure end."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Before passengers can be carried in an aircraft that has been altered in a manner that may have appreciably changed its flight characteristics, it must be flight tested by an appropriately-rated pilot who holds at least a",
+        "choices": [
+            "Commercial Pilot Certificate with an instrument rating.",
+            "Commercial Pilot Certificate and a mechanic's certificate.",
+            "Private Pilot Certificate."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "The lateral dimensions of Class D airspace are based on",
+        "choices": [
+            "the instrument procedures for which the controlled airspace is established.",
+            "the number of airports that lie within the Class D airspace.",
+            "5 statute miles from the geographical center of the primary airport."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "When operating under BasicMed, where do you need to retain a copy of the Comprehensive Medical Examination Checklist (CMEC)?",
+        "choices": [
+            "In your logbook (paper or electronic).",
+            "In your possession when operating as PIC on a flight.",
+            "At the office of the medical professional who performed your assessment."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "While cruising at 9,500 feet MSL, the fuel/air mixture is properly adjusted. What will occur if a descent to 4,500 feet MSL is made without readjusting the mixture?",
+        "choices": [
+            "The fuel/air mixture may become excessively lean.",
+            "There will be more fuel in the cylinders than is needed for normal combustion, and the excess fuel will absorb heat and cool the engine.",
+            "The excessively rich mixture will create higher cylinder head temperatures and may cause detonation."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Where should a private pilot record preventive maintenance action performed on an airplane?",
+        "choices": [
+            "No record-keeping is required.",
+            "Maintenance logbooks",
+            "Pilot flight logbooks"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "What are the reporting requirements for a pilot convicted of possessing and selling marijuana?",
+        "choices": [
+            "You must send a notification letter with details of the conviction within 60 days to the Aerospace Medical Certification Division.",
+            "There are no reporting requirements related to marijuana offenses.",
+            "You must report the offense to the FAA Aeromedical Certification Division when applying for a medical certificate."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "The purpose of the fuel tank vent system is to:",
+        "choices": [
+            "allow air to enter as fuel is consumed to maintain atmospheric pressure inside the tank.",
+            "allow for the proper air to fuel ratio when flying at higher altitudes.",
+            "increase pressure in the tank to move fuel to the engine intake."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "To operate an airplane under SPECIAL VFR (SVFR) within Class D airspace at night, which is required?",
+        "choices": [
+            "The Class D airspace must be specifically designated as a night SVFR area.",
+            "The pilot must hold an instrument rating, but the airplane need not be equipped for instrument flight, as long as the weather will remain at or above SVFR minimums.",
+            "The pilot must hold an instrument rating, and the airplane must be equipped for instrument flight."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Radar weather reports are of special interest to pilots because they indicate",
+        "choices": [
+            "large areas of low ceilings and fog.",
+            "location of precipitation along with type, intensity, and trend.",
+            "location of precipitation along with type, intensity, and cell movement of precipitation."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Airport taxiway edge lights are identified at night by",
+        "choices": [
+            "alternate red and green lights.",
+            "blue omnidirectional lights.",
+            "white directional lights."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "The conditions necessary for the formation of cumulonimbus clouds are a lifting action and:",
+        "choices": [
+            "unstable, moist air.",
+            "either stable or unstable air.",
+            "unstable air containing an excess of condensation nuclei."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "(Refer to figure 51) What information should be entered in the Level field for Item 15 on the International Flight Plan form?",
+        "choices": [
+            "Cruising speed.",
+            "Fuel level.",
+            "VFR cruising altitude."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "The wind at 5,000 feet AGL is southwesterly while the surface wind is southerly. This difference in direction is primarily due to",
+        "choices": [
+            "friction between the wind and the surface.",
+            "stronger Coriolis force at the surface.",
+            "stronger pressure gradient at higher altitudes."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "You can expect dangerous turbulence in mountain waves and:",
+        "choices": [
+            "Below rotor clouds.",
+            "Above rotor clouds.",
+            "Below lenticular clouds."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "From whom should a departing VFR aircraft request radar traffic information during ground operations?",
+        "choices": [
+            "Tower, just before takeoff.",
+            "Ground control, on initial contact.",
+            "Clearance delivery."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "What cloud types would indicate convective turbulence?",
+        "choices": [
+            "Cirrus clouds.",
+            "Towering cumulus clouds.",
+            "Nimbostratus clouds."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Low level inversions may cause:",
+        "choices": [
+            "Clearing of the atmosphere close to the surface.",
+            "Precipitation.",
+            "Smoke and dust to be trapped close to the surface."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "The load factor on any airplane during a constant altitude turn is determined by:",
+        "choices": [
+            "Bank alone.",
+            "The type of aircraft being flown.",
+            "Airspeed."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Lateral or roll stability is normally achieved by:",
+        "choices": [
+            "The design of the horizontal stabilizer/stabilator.",
+            "The upward pitch of the wings, called dihedral.",
+            "The design of the ailerons."
+        ],
+        "correct": 1
     }
 ]
