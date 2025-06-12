@@ -621,6 +621,15 @@
         "correct": 1
     },
     {
+        "question": "Except when necessary for takeoff or landing, what is the minimum safe altitude for a pilot to operate an aircraft anywhere?",
+        "choices": [
+            "An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface.",
+            "An altitude of 500 feet above the highest obstacle within a horizontal radius of 1,000 feet.",
+            "An altitude of 500 feet above the surface and no closer than 500 feet to any person, vessel, vehicle, or structure."
+        ],
+        "correct": 0
+    },
+    {
         "question": "Except when necessary for takeoff or landing, what is the minimum safe altitude required for a pilot to operate an aircraft over other than a congested area?",
         "choices": [
             "An altitude of 500 feet AGL, except over open water or a sparsely populated area, which requires 500 feet from any person, vessel, vehicle, or structure.",
@@ -628,6 +637,15 @@
             "An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface."
         ],
         "correct": 0
+    },
+    {
+        "question": "Except when necessary for takeoff or landing, what is the minimum safe altitude required for a pilot to operate an aircraft over congested areas?",
+        "choices": [
+            "An altitude of 1,000 feet above any person, vessel, vehicle, or structure.",
+            "An altitude of 1,000 feet above the highest obstacle within a horizontal radius of 2,000 feet of the aircraft.",
+            "An altitude of 500 feet above the highest obstacle within a horizontal radius of 1,000 feet of the aircraft."
+        ],
+        "correct": 1
     },
     {
         "question": "Which incident requires an immediate notification to the nearest NTSB field office?",
@@ -969,7 +987,7 @@
             "In your possession when operating as PIC on a flight.",
             "At the office of the medical professional who performed your assessment."
         ],
-        "correct": 1
+        "correct": 0
     },
     {
         "question": "While cruising at 9,500 feet MSL, the fuel/air mixture is properly adjusted. What will occur if a descent to 4,500 feet MSL is made without readjusting the mixture?",
@@ -1114,23 +1132,86 @@
             "The design of the ailerons."
         ],
         "correct": 1
-    },{
-    "question": "If your GPS receiver is equipped with WAAS—Wide Area Augmentation System—your position accuracy is:",
-    "choices": [
-        "Twelve meters.",
-        "Five meters.",
-        "Less than three meters."
-    ],
-    "correct": 2
-},{
-    "question": "What effect does high density altitude, as compared to low density altitude, have on propeller efficiency and why?",
-    "choices": [
-        "Efficiency is increased due to less friction on the propeller blades.",
-        "Efficiency is reduced due to the increased force of the propeller in the thinner air.",
-        "Efficiency is reduced because the propeller exerts less force at high density altitudes than at low density altitudes."
-    ],
-    "correct": 2
-}
-
-
+    },
+    {
+        "question": "If your GPS receiver is equipped with WAAS—Wide Area Augmentation System—your position accuracy is:",
+        "choices": [
+            "Twelve meters.",
+            "Five meters.",
+            "Less than three meters."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "What effect does high density altitude, as compared to low density altitude, have on propeller efficiency and why?",
+        "choices": [
+            "Efficiency is increased due to less friction on the propeller blades.",
+            "Efficiency is reduced due to the increased force of the propeller in the thinner air.",
+            "Efficiency is reduced because the propeller exerts less force at high density altitudes than at low density altitudes."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Layered clouds are called:",
+        "choices": [
+            "Cumulus.",
+            "Mares' tails.",
+            "Stratus."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "A steady green light signal directed from the control tower to an aircraft in flight is a signal that the pilot",
+        "choices": [
+            "is cleared to land.",
+            "should give way to other aircraft and continue circling.",
+            "should return for landing."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What action can a pilot take to aid in cooling an engine that is overheating during a climb?",
+        "choices": [
+            "Reduce rate of climb and increase airspeed.",
+            "Reduce climb speed and increase RPM.",
+            "Increase climb speed and increase RPM."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What flight visibility do you need in order to perform an acrobatic maneuver?",
+        "choices": [
+            "3 miles.",
+            "7 miles.",
+            "5 miles."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "To obtain current information regarding cloud tops, icing, and turbulence check the:",
+        "choices": [
+            "Graphical Forecasts for Aviation (GFA).",
+            "Pilot reports (PIREPs).",
+            "Low-Level Significant Weather Prog Charts."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "In what flight condition is torque effect the greatest in a single-engine airplane?",
+        "choices": [
+            "Low airspeed, high power, high angle of attack.",
+            "High airspeed, high power, high angle of attack.",
+            "Low airspeed, low power, low angle of attack."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Every physical process of weather is accompanied by, or is the result of, a:",
+        "choices": [
+            "heat exchange.",
+            "pressure differential.",
+            "movement of air."
+        ],
+        "correct": 0
+    }
 ]
