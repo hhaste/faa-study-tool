@@ -1312,5 +1312,86 @@
             "Northwest."
         ],
         "correct": 2
+    },
+    {
+        "question": "Which aircraft has the right-of-way over the other aircraft listed?",
+        "choices": [
+            "Aircraft towing other aircraft.",
+            "Gyroplane.",
+            "Airship."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "In which situation is advection fog most likely to form?",
+        "choices": [
+            "An air mass moving inland from the coast in winter.",
+            "A warm, moist air mass on the windward side of mountains.",
+            "A light breeze blowing colder air out to sea."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What does a positive indication tell you on an ammeter?",
+        "choices": [
+            "The battery will run out of electrical power soon",
+            "Amount of volts in the electrical system",
+            "The charging rate of the battery"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "If a pilot suspects that the engine (with a fixed-pitch propeller) is detonating during climb-out after takeoff, the initial corrective action to take would be to",
+        "choices": [
+            "apply carburetor heat",
+            "lean the mixture",
+            "lower the nose slightly to increase airspeed"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "What is indicated when a current CONVECTIVE SIGMET forecasts thunderstorms?",
+        "choices": [
+            "Moderate thunderstorms covering 30 percent of the area.",
+            "Moderate or severe turbulence.",
+            "Thunderstorms obscured by massive cloud layers."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "To meet the recency of experience requirements to act as pilot in command carrying passengers at night, a pilot must have made at least three takeoffs and three landings to a full stop within the preceding 90 days in:",
+        "choices": [
+            "any aircraft.",
+            "the same category and class of aircraft to be used.",
+            "the same type of aircraft to be used."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Induced drag increases with:",
+        "choices": [
+            "An increase in the angle of attack.",
+            "A decrease in the angle of attack.",
+            "The speed of the airplane."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "(Refer to figure 21, area 3.) What type military flight operations should a pilot expect along IR 644?",
+        "choices": [
+            "IFR training flights above 1,500 feet AGL at speeds in excess of 250 knots.",
+            "VFR training flights above 1,500 feet AGL at speeds less than 250 knots.",
+            "Instrument training flights below 1,500 feet AGL at speeds in excess of 150 knots."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What is one of the advantages of an alternator over a generator in an airplane engine?",
+        "choices": [
+            "The electrical output of an alternator is more constant throughout a wide range of engine speeds.",
+            "Alternators produce direct current rather than alternating current.",
+            "An alternator is electrically driven."
+        ],
+        "correct": 0
     }
 ]
