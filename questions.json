@@ -315,7 +315,7 @@
         "correct": 0
     },
     {
-        "question": "(Refer to Figure 68.) What does the line from point A to point B of the wind triangle represent?",
+        "question": "(Refer to Figure 68.) B of the wind triangle represent?",
         "choices": [
             "Groundspeed and true heading.",
             "True course and groundspeed.",
@@ -1213,5 +1213,104 @@
             "movement of air."
         ],
         "correct": 0
+    },
+    {
+        "question": "After takeoff you encounter a temperature inversion. You should expect:",
+        "choices": [
+            "Wind shear.",
+            "Strong convective currents.",
+            "Strong surface winds."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Which combination of atmospheric conditions will reduce aircraft takeoff and climb performance?",
+        "choices": [
+            "High temperature, high relative humidity, and high density altitude.",
+            "High temperature, low relative humidity, and low density altitude.",
+            "Low temperature, low relative humidity, and low density altitude."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What is the minimum pilot certificate for flying in Class D airspace?",
+        "choices": [
+            "Commercial Pilot Certificate.",
+            "No minimum pilot certificate is specified for operations in Class D airspace.",
+            "Private Pilot Certificate."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "How often must the aircraft’s ELT be inspected?",
+        "choices": [
+            "Within 12 calendar months of the last inspection",
+            "Every two years",
+            "Within 24 calendar months of the last inspection"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "In order to determine your distance flown, you would multiply time by:",
+        "choices": [
+            "Indicated airspeed.",
+            "Groundspeed.",
+            "Equivalent airspeed."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "What would be a symptom of hyperventilation?",
+        "choices": [
+            "Decreased breathing rate and depth.",
+            "A feeling of suffocation and drowsiness.",
+            "Heightened awareness and feeling of well being."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Inbound to an airport with no tower, FSS, or UNICOM in operation, a pilot should self-announce on MULTICOM frequency",
+        "choices": [
+            "5 miles out.",
+            "20 miles out.",
+            "10 miles out."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Each person operating an aircraft at a VFR cruising altitude shall maintain an odd-thousand plus 500-foot altitude while on a",
+        "choices": [
+            "magnetic heading of 0° through 179°.",
+            "magnetic course of 0° through 179°.",
+            "true course of 0° through 179°."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "A Third-Class Medical Certificate is issued to a 51-year-old pilot on May 3, this year. To exercise the privileges of a Private Pilot Certificate, the medical certificate will be valid until midnight on",
+        "choices": [
+            "May 3, 1 year later.",
+            "May 31, 1 year later.",
+            "May 31, 2 years later."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "An ATC radar facility issues the following advisory to a pilot flying on a heading of 090°: 'TRAFFIC 3 O'CLOCK, 2 MILES, WESTBOUND...' Where should the pilot look for this traffic?",
+        "choices": [
+            "West.",
+            "South.",
+            "East."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "An ATC radar facility issues the following advisory to a pilot flying on a heading of 360°: 'TRAFFIC 10 O'CLOCK, 2 MILES, SOUTHBOUND...' Where should the pilot look for this traffic?",
+        "choices": [
+            "Southwest.",
+            "Northeast.",
+            "Northwest."
+        ],
+        "correct": 2
     }
 ]
