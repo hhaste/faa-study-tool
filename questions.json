@@ -1393,5 +1393,14 @@
             "An alternator is electrically driven."
         ],
         "correct": 0
+    },
+    {
+        "question": "Unless each occupant is provided with supplemental oxygen, no person may operate a civil aircraft of U.S. registry above a maximum cabin pressure altitude of:",
+        "choices": [
+            "14,000 feet MSL.",
+            "15,000 feet MSL.",
+            "12,500 feet MSL."
+        ],
+        "correct": 1
     }
 ]
