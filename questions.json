@@ -522,7 +522,7 @@
         "correct": 1
     },
     {
-        "question": "(Refer to figure 9, area B.) How should the flight controls be held while taxiing a tailwheel airplane into a right quartering headwind?",
+        "question": "(Refer to Figure 9, area B.) How should the flight controls be held while taxiing a tailwheel airplane into a right quartering headwind?",
         "choices": [
             "Right aileron up, elevator up.",
             "Right aileron down, elevator neutral.",
@@ -1062,7 +1062,7 @@
         "correct": 0
     },
     {
-        "question": "(Refer to figure 51) What information should be entered in the Level field for Item 15 on the International Flight Plan form?",
+        "question": "(Refer to Figure 51) What information should be entered in the Level field for Item 15 on the International Flight Plan form?",
         "choices": [
             "Cruising speed.",
             "Fuel level.",
@@ -1377,7 +1377,7 @@
         "correct": 0
     },
     {
-        "question": "(Refer to figure 21, area 3.) What type military flight operations should a pilot expect along IR 644?",
+        "question": "(Refer to Figure 21, area 3.) What type military flight operations should a pilot expect along IR 644?",
         "choices": [
             "IFR training flights above 1,500 feet AGL at speeds in excess of 250 knots.",
             "VFR training flights above 1,500 feet AGL at speeds less than 250 knots.",
@@ -1402,5 +1402,86 @@
             "12,500 feet MSL."
         ],
         "correct": 1
+    },
+    {
+        "question": "The most frequent type of ground or surface-based temperature inversion is that which is produced by",
+        "choices": [
+            "terrestrial radiation on a clear, relatively still night.",
+            "warm air being lifted rapidly aloft in the vicinity of mountainous terrain.",
+            "the movement of colder air under warm air, or the movement of warm air over cold air."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "The uncontrolled firing of the fuel/air charge in advance of normal spark ignition is known as",
+        "choices": [
+            "combustion.",
+            "pre-ignition.",
+            "detonation."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "The presence of ice pellets at the surface is evidence that there",
+        "choices": [
+            "are thunderstorms in the area.",
+            "has been a cold frontal passage.",
+            "is a temperature inversion with freezing rain at a higher altitude."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "On the calculator side of the flight computer, time is always found on which scale(s)?",
+        "choices": [
+            "Outer scale.",
+            "Inner scale only.",
+            "Inner scale and far inner scale."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Select the true statement about BasicMed medical certificate requirements:",
+        "choices": [
+            "A pilot whose medical certificate expired in 2002 does not need to get a current medical to qualify for BasicMed.",
+            "If a pilot has never had a medical certificate, he or she must get one before they qualify to operate under BasicMed.",
+            "A pilot whose medical certificate has been revoked can operate under BasicMed instead of getting his or her medical reinstated."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "When warm, moist, stable air flows upslope, it",
+        "choices": [
+            "produced stratus type clouds.",
+            "causes showers and thunderstorms.",
+            "develops convective turbulence."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "To determine the freezing level and areas of probable icing aloft, the pilot should refer to the",
+        "choices": [
+            "Weather Depiction Chart.",
+            "Area Forecast.",
+            "Inflight Aviation Weather Advisories."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "(Refer to Figure 19.) How are Significant Weather Prognostic Charts best used by a pilot?",
+        "choices": [
+            "For determining areas to avoid (freezing levels and turbulence).",
+            "For overall planning at all altitudes.",
+            "For analyzing current frontal activity and cloud coverage."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "How soon after the conviction for driving while intoxicated by alcohol or drugs shall it be reported to the FAA, Civil Aviation Security Division?",
+        "choices": [
+            "Required to be reported upon renewal of medical certificate.",
+            "No later than 30 working days after the motor vehicle action.",
+            "No later than 60 days after the motor vehicle action."
+        ],
+        "correct": 2
     }
 ]
