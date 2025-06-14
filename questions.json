@@ -1483,5 +1483,86 @@
             "No later than 60 days after the motor vehicle action."
         ],
         "correct": 2
+    },
+    {
+        "question": "Maintenance records show the last transponder inspection was performed on September 1, 2014. The next inspection will be due no later than",
+        "choices": [
+            "September 30, 2015.",
+            "September 1, 2016.",
+            "September 30, 2016."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Under the general BasicMed rules a pilot can fly",
+        "choices": [
+            "carrying passengers or cargo for compensation or hire.",
+            "without restrictions outside of the United States.",
+            "in furtherance of a business."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "For aviation purposes, ceiling is defined as the height above the Earth's surface of the",
+        "choices": [
+            "lowest reported obscuration and the highest layer of clouds reported as overcast.",
+            "lowest broken or overcast layer or vertical visibility into an obscuration.",
+            "lowest layer of clouds reported as scattered, broken, or thin."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "The Air Data Computer or ADC",
+        "choices": [
+            "gathers pressure information from spinning gyros.",
+            "combines data from the pitot-static sensors and temperature sensors.",
+            "receives input from the airspeed and altitude indicators."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "If a flight is made from an area of low pressure into an area of high pressure without the altimeter setting being adjusted, the altimeter will indicate",
+        "choices": [
+            "the actual altitude above sea level.",
+            "higher than the actual altitude above sea level.",
+            "lower than the actual altitude above sea level."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "A stable air mass is most likely to have which characteristic?",
+        "choices": [
+            "Showery precipitation.",
+            "Turbulent air.",
+            "Smooth air."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "If the temperature/dewpoint spread is small and decreasing, and the temperature is 62 °F, what type weather is most likely to develop?",
+        "choices": [
+            "Freezing precipitation.",
+            "Thunderstorms.",
+            "Fog or low clouds."
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Magnetic heading is",
+        "choices": [
+            "the number you want to see in the glass of the compass to fly where you want to go.",
+            "the direction the nose is pointed referenced to magnetic north.",
+            "the error in the compass due to magnetic fields in the aircraft."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "To use an MEL a pilot",
+        "choices": [
+            "may download it from the manufacturer's website.",
+            "must receive written approval from the FAA.",
+            "may refer to it in the AFM, no further action is needed."
+        ],
+        "correct": 1
     }
 ]
