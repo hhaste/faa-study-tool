@@ -1,23 +1,5 @@
 [
     {
-        "question": "Which aileron positions should a pilot generally use when taxiing in strong quartering headwinds?",
-        "choices": [
-            "Ailerons neutral.",
-            "Aileron down on the side from which the wind is blowing.",
-            "Aileron up on the side from which the wind is blowing."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "What action is required when two aircraft of the same category converge, but not head-on?",
-        "choices": [
-            "Each aircraft shall give way to the right.",
-            "The aircraft on the left shall give way.",
-            "The faster aircraft shall give way."
-        ],
-        "correct": 1
-    },
-    {
         "question": "What period of time must a person be hospitalized before an injury may be defined by the NTSB as a 'serious injury'?",
         "choices": [
             "72 hours; commencing within 10 days after date of the injury.",
@@ -25,33 +7,6 @@
             "10 days, with no other extenuating circumstances."
         ],
         "correct": 1
-    },
-    {
-        "question": "Under which condition will pressure altitude be equal to true altitude?",
-        "choices": [
-            "When standard atmospheric conditions exist.",
-            "When indicated altitude is equal to the pressure altitude.",
-            "When the atmospheric pressure is 29.92 inches Hg."
-        ],
-        "correct": 0
-    },
-    {
-        "question": "What is the difference between a normal landing and a crosswind landing?",
-        "choices": [
-            "Aileron up on the upwind wing",
-            "Aileron up on the downwind wing",
-            "Aileron down on the upwind wing"
-        ],
-        "correct": 0
-    },
-    {
-        "question": "When should a pilot contact the tower of a Class C airport when departing from a satellite airport underlying the Class C?",
-        "choices": [
-            "After departure, when practical.",
-            "On the ground before departure.",
-            "You should remain on the CTAF for the departure airport."
-        ],
-        "correct": 0
     },
     {
         "question": "Which is true with respect to a high - or low-pressure system?",
@@ -63,47 +18,11 @@
         "correct": 2
     },
     {
-        "question": "What input is required to maintain altitude during steep turns?",
-        "choices": [
-            "Back pressure on the yoke.",
-            "Aileron in the opposite direction of the turn.",
-            "Increase power."
-        ],
-        "correct": 0
-    },
-    {
         "question": "How should the flight controls be held while taxiing a tricycle-gear equipped airplane into a left quartering headwind?",
         "choices": [
             "Left aileron up, elevator neutral.",
             "Left aileron down, elevator neutral.",
             "Left aileron up, elevator down."
-        ],
-        "correct": 0
-    },
-    {
-        "question": "Prior to takeoff, the altimeter should be set to which altitude or altimeter setting?",
-        "choices": [
-            "The current local altimeter setting, if available, or the departure airport elevation.",
-            "The corrected pressure altitude for the departure airport.",
-            "The corrected density altitude of the departure airport."
-        ],
-        "correct": 0
-    },
-    {
-        "question": "On landing, your tire blows and the wheel is dented. What action is required to comply with NTSB Part 830?",
-        "choices": [
-            "A report must be filed with the nearest FAA field office within 7 days.",
-            "No notification or report is required.",
-            "An immediate notification must be filed by the operator of the aircraft with the nearest NTSB field office."
-        ],
-        "correct": 1
-    },
-    {
-        "question": "You must notify the NTSB immediately if the following occurs:",
-        "choices": [
-            "The inability of any required flight crewmember to perform normal flight duties as a result of injury or illness.",
-            "In-flight roll upset greater than 90° of bank",
-            "Flight through a Prohibited Area without an ATC clearance"
         ],
         "correct": 0
     },
@@ -126,24 +45,6 @@
         "correct": 2
     },
     {
-        "question": "When must batteries in an emergency locator transmitter (ELT) be replaced or recharged, if rechargeable?",
-        "choices": [
-            "When the ELT can no longer be heard over the airplane's communication radio receiver.",
-            "After any inadvertent activation of the ELT.",
-            "When the ELT has been in use for more than 1 cumulative hour."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "An abnormally high engine oil temperature indication may be caused by",
-        "choices": [
-            "the oil level being too low.",
-            "operating with an excessively rich mixture.",
-            "operating with a too high viscosity oil."
-        ],
-        "correct": 0
-    },
-    {
         "question": "Cold air generally contains:",
         "choices": [
             "More water vapor than cold air.",
@@ -160,24 +61,6 @@
             "visible moisture."
         ],
         "correct": 2
-    },
-    {
-        "question": "How can you determine the stability of an air mass?",
-        "choices": [
-            "Winds aloft forecast.",
-            "Observe the cloud formations and type of precipitation.",
-            "Height of the cloud bases."
-        ],
-        "correct": 1
-    },
-    {
-        "question": "How should the ailerons be positioned when landing in a crosswind?",
-        "choices": [
-            "Up aileron into the wind",
-            "Neutral ailerons",
-            "Down aileron into the wind"
-        ],
-        "correct": 0
     },
     {
         "question": "Steady precipitation preceding a front is an indication of",
@@ -198,33 +81,6 @@
         "correct": 1
     },
     {
-        "question": "Under what condition is indicated altitude the same as true altitude?",
-        "choices": [
-            "If the altimeter has no mechanical error.",
-            "When at sea level under standard conditions.",
-            "When at 18,000 feet MSL with the altimeter set at 29.92."
-        ],
-        "correct": 1
-    },
-    {
-        "question": "What is required for thermals to form?",
-        "choices": [
-            "High humidity",
-            "Thunderstorms",
-            "Solar heating"
-        ],
-        "correct": 2
-    },
-    {
-        "question": "When squawking the VFR code (1200) on your transponder, what is the minimum mode the transponder must be in?",
-        "choices": [
-            "Mode C.",
-            "Mode F.",
-            "Mode A."
-        ],
-        "correct": 2
-    },
-    {
         "question": "When the course deviation indicator (CDI) needle is centered during an omnireceiver check using a VOR test signal (VOT), the omnibearing selector (OBS) and the TO/FROM indicator should read",
         "choices": [
             "0° TO or 180° FROM, regardless of the pilot's position from the VOT.",
@@ -232,42 +88,6 @@
             "0° FROM or 180° TO, regardless of the pilot's position from the VOT."
         ],
         "correct": 2
-    },
-    {
-        "question": "SIGMETs are issued as a warning of weather conditions hazardous to which aircraft?",
-        "choices": [
-            "Large aircraft only.",
-            "All aircraft.",
-            "Small aircraft only."
-        ],
-        "correct": 1
-    },
-    {
-        "question": "While operating under BasicMed as pilot in command, the aircraft:",
-        "choices": [
-            "Must be limited to 5 seats and not certified for more than 6,000 lbs.",
-            "Must be limited to 12 seats and not certified for more than 12,500 lbs.",
-            "Must be limited to 7 seats and not certified for more than 12,500 lbs."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "The pitot system provides impact pressure for which instrument?",
-        "choices": [
-            "Airspeed indicator.",
-            "Altimeter.",
-            "Vertical-speed indicator."
-        ],
-        "correct": 0
-    },
-    {
-        "question": "While inbound to a nontowered airport without automated weather services, you listen to the CTAF and hear no other aircraft on the frequency. How can you determine the winds and active runway?",
-        "choices": [
-            "Call the nearest ATC approach or Center facility.",
-            "Call on the CTAF and request an Airport Advisory.",
-            "Fly a straight-in final approach and scan for other traffic."
-        ],
-        "correct": 1
     },
     {
         "question": "One of the most easily recognized discontinuities across a front is",
@@ -293,6 +113,15 @@
             "6",
             "4",
             "5"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "What is the minimum number of Global Positioning System (GPS) satellites that are observable by a user anywhere on earth?",
+        "choices": [
+            "6",
+            "5",
+            "4"
         ],
         "correct": 1
     },
@@ -324,51 +153,6 @@
         "correct": 2
     },
     {
-        "question": "In the Northern Hemisphere, a magnetic compass will normally indicate initially a turn toward the east if",
-        "choices": [
-            "an aircraft is accelerated while on a north heading.",
-            "a left turn is entered from a north heading.",
-            "an aircraft is decelerated while on a south heading."
-        ],
-        "correct": 1
-    },
-    {
-        "question": "In the Northern Hemisphere, a magnetic compass will normally indicate initially a turn toward the west if",
-        "choices": [
-            "a left turn is entered from a north heading.",
-            "an aircraft is accelerated while on a north heading.",
-            "a right turn is entered from a north heading."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "In the Northern Hemisphere, a magnetic compass will normally indicate initially a turn toward the north if",
-        "choices": [
-            "an aircraft is decelerated while on an east or west heading.",
-            "a left turn is entered from a west heading.",
-            "an aircraft is accelerated while on an east or west heading."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "In the Northern Hemisphere, the magnetic compass will normally indicate a turn toward the south when",
-        "choices": [
-            "a left turn is entered from an east heading.",
-            "a right turn is entered from a west heading.",
-            "the aircraft is decelerated while on a west heading."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "In the Northern Hemisphere, a magnetic compass will normally indicate initially a turn toward the south if",
-        "choices": [
-            "a left turn is entered from an east heading.",
-            "a right turn is entered from a west heading.",
-            "the aircraft is decelerated while on a west heading."
-        ],
-        "correct": 2
-    },
-    {
         "question": "The movement of the air affects the speed at which aircraft move:",
         "choices": [
             "In a turn.",
@@ -387,24 +171,6 @@
         "correct": 2
     },
     {
-        "question": "With certain exceptions, safety belts are required to be secured about passengers during",
-        "choices": [
-            "all flight conditions.",
-            "flight in turbulent air.",
-            "taxi, takeoffs, and landings."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "(Refer to Figure 26, area 1.) What might you expect when flying in an MOA such as Devils Lake.",
-        "choices": [
-            "Unusual, often invisible, hazards to aircraft such as artillery firing, aerial gunnery, or guided missiles.",
-            "High volume of pilot training or an unusual type of aerial activity.",
-            "Air combat tactics, air intercepts, aerobatics, formation training, and low−altitude tactics."
-        ],
-        "correct": 2
-    },
-    {
         "question": "If a person is convicted of flying an airplane while intoxicated, he or she might expect:",
         "choices": [
             "Denial of an application for an FAA certificate or rating.",
@@ -412,24 +178,6 @@
             "To write a notification of the conviction to the FAA Civil Aeromedical Institute."
         ],
         "correct": 0
-    },
-    {
-        "question": "No person may attempt to act as a crewmember of a civil aircraft with",
-        "choices": [
-            ".008 percent by weight or more alcohol in the blood.",
-            ".004 percent by weight or more alcohol in the blood.",
-            ".04 percent by weight or more alcohol in the blood."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "Where should you perform the pre-takeoff checks at the airport?",
-        "choices": [
-            "Apron area after starting the engine.",
-            "Run-up area near the takeoff end of the runway.",
-            "On a taxiway along the way to the runway."
-        ],
-        "correct": 1
     },
     {
         "question": "How is the wing twisted on most training airplanes to increase controllability at low speeds?",
@@ -495,24 +243,6 @@
         "correct": 0
     },
     {
-        "question": "If an aircraft is equipped with a fixed-pitch propeller and a float-type carburetor, the first indication of carburetor ice would most likely be",
-        "choices": [
-            "engine roughness.",
-            "a drop in oil temperature and cylinder head temperature.",
-            "loss of RPM."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "The operator of an aircraft that has been involved in an accident is required to file an NTSB accident report within how many days?",
-        "choices": [
-            "5.",
-            "7.",
-            "10."
-        ],
-        "correct": 2
-    },
-    {
         "question": "What should be the indication on the magnetic compass as you roll into a standard rate turn to the right from a south heading in the Northern Hemisphere?",
         "choices": [
             "The compass will remain on south for a short time, then gradually catch up to the magnetic heading of the airplane.",
@@ -531,24 +261,6 @@
         "correct": 0
     },
     {
-        "question": "Which records or documents shall the owner or operator of an aircraft keep to show compliance with an applicable Airworthiness Directive?",
-        "choices": [
-            "Airworthiness Certificate and Pilot's Operating Handbook.",
-            "Airworthiness and Registration Certificates.",
-            "Aircraft maintenance records."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "What type of turbulence would a pilot expect in a Mammatus cloud?",
-        "choices": [
-            "Moderate",
-            "Severe",
-            "Light"
-        ],
-        "correct": 1
-    },
-    {
         "question": "Which conditions result in the formation of frost?",
         "choices": [
             "The temperature of the surrounding air is at or below freezing when small drops of moisture fall on the collecting surface.",
@@ -556,24 +268,6 @@
             "The temperature of the collecting surface is at or below freezing when small droplets of moisture fall on the surface."
         ],
         "correct": 1
-    },
-    {
-        "question": "The operator of an aircraft that has been involved in an incident is required to submit a report to the nearest field office of the NTSB",
-        "choices": [
-            "when requested.",
-            "within 10 days.",
-            "within 7 days."
-        ],
-        "correct": 0
-    },
-    {
-        "question": "If a recreational or private pilot had a flight review on August 8, this year, when is the next flight review required?",
-        "choices": [
-            "August 8, next year.",
-            "August 31, 1 year later.",
-            "August 31, 2 years later."
-        ],
-        "correct": 2
     },
     {
         "question": "The purpose of the fuel tank vent system is to:",
@@ -585,33 +279,6 @@
         "correct": 0
     },
     {
-        "question": "The 'yellow demarcation bar' marking indicates",
-        "choices": [
-            "runway with a displaced threshold that precedes the runway.",
-            "a hold line from a taxiway to a runway.",
-            "the beginning of available runway for landing on the approach side."
-        ],
-        "correct": 0
-    },
-    {
-        "question": "The correct method of stating 10,500 feet MSL to ATC is",
-        "choices": [
-            "'ONE ZERO THOUSAND, FIVE HUNDRED.'",
-            "'TEN THOUSAND, FIVE HUNDRED FEET.'",
-            "'TEN POINT FIVE.'"
-        ],
-        "correct": 0
-    },
-    {
-        "question": "You want your wind ground track and ____________to be the same.",
-        "choices": [
-            "Heading.",
-            "Drift angle.",
-            "Course."
-        ],
-        "correct": 2
-    },
-    {
         "question": "When does P-factor cause the airplane to yaw to the left?",
         "choices": [
             "When at high airspeeds.",
@@ -621,51 +288,6 @@
         "correct": 1
     },
     {
-        "question": "Except when necessary for takeoff or landing, what is the minimum safe altitude for a pilot to operate an aircraft anywhere?",
-        "choices": [
-            "An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface.",
-            "An altitude of 500 feet above the highest obstacle within a horizontal radius of 1,000 feet.",
-            "An altitude of 500 feet above the surface and no closer than 500 feet to any person, vessel, vehicle, or structure."
-        ],
-        "correct": 0
-    },
-    {
-        "question": "Except when necessary for takeoff or landing, what is the minimum safe altitude required for a pilot to operate an aircraft over other than a congested area?",
-        "choices": [
-            "An altitude of 500 feet AGL, except over open water or a sparsely populated area, which requires 500 feet from any person, vessel, vehicle, or structure.",
-            "An altitude of 500 feet above the highest obstacle within a horizontal radius of 1,000 feet.",
-            "An altitude allowing, if a power unit fails, an emergency landing without undue hazard to persons or property on the surface."
-        ],
-        "correct": 0
-    },
-    {
-        "question": "Except when necessary for takeoff or landing, what is the minimum safe altitude required for a pilot to operate an aircraft over congested areas?",
-        "choices": [
-            "An altitude of 1,000 feet above any person, vessel, vehicle, or structure.",
-            "An altitude of 1,000 feet above the highest obstacle within a horizontal radius of 2,000 feet of the aircraft.",
-            "An altitude of 500 feet above the highest obstacle within a horizontal radius of 1,000 feet of the aircraft."
-        ],
-        "correct": 1
-    },
-    {
-        "question": "Which incident requires an immediate notification to the nearest NTSB field office?",
-        "choices": [
-            "A forced landing due to engine failure.",
-            "Flight control system malfunction or failure.",
-            "Landing gear damage, due to a hard landing."
-        ],
-        "correct": 1
-    },
-    {
-        "question": "Safety belts are required to be properly secured about which persons in an aircraft and when?",
-        "choices": [
-            "Passengers, during taxi, takeoffs, and landings only.",
-            "Pilots only, during takeoffs and landings.",
-            "Each person on board the aircraft during the entire flight."
-        ],
-        "correct": 0
-    },
-    {
         "question": "What is the purpose of the taxiway directional sign?",
         "choices": [
             "Indicates designation and direction of exit taxiway from runway.",
@@ -673,69 +295,6 @@
             "Indicates designation and direction of taxiway leading out of an intersection."
         ],
         "correct": 2
-    },
-    {
-        "question": "When the term 'light and variable' is used in reference to a Winds Aloft Forecast, the coded group and windspeed is",
-        "choices": [
-            "9999 and less than 10 knots.",
-            "9900 and less than 5 knots.",
-            "0000 and less than 7 knots."
-        ],
-        "correct": 1
-    },
-    {
-        "question": "There is no acceleration/deceleration error on a heading of:",
-        "choices": [
-            "East or west.",
-            "240 degrees or 60 degrees.",
-            "North or south."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "With certain exceptions, when must each occupant of an aircraft wear an approved parachute?",
-        "choices": [
-            "When a door is removed from the aircraft to facilitate parachute jumpers.",
-            "When intentionally banking in excess of 30°.",
-            "When intentionally pitching the nose of the aircraft up or down 30° or more."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "With respect to the certification of aircraft, which is a class of aircraft?",
-        "choices": [
-            "Normal, utility, acrobatic, limited.",
-            "Airplane, rotorcraft, glider, balloon.",
-            "Transport, restricted, provisional."
-        ],
-        "correct": 1
-    },
-    {
-        "question": "With respect to the certification of airmen, which is a class of aircraft?",
-        "choices": [
-            "Lighter-than-air, airship, hot air balloon, gas balloon.",
-            "Single-engine land and sea, multiengine land and sea.",
-            "Airplane, rotorcraft, glider, lighter-than-air."
-        ],
-        "correct": 1
-    },
-    {
-        "question": "With respect to the certification of aircraft, which is a category of aircraft?",
-        "choices": [
-            "Normal, utility, acrobatic, limited.",
-            "Airplane, rotorcraft, glider.",
-            "Landplane, seaplane."
-        ],
-        "correct": 0
-    },
-    {
-        "question": "With respect to the certification of airmen, which are categories of aircraft?",
-        "choices": [
-            "Gyroplane, helicopter, airship, free balloon.",
-            "Airplane, rotorcraft, glider, lighter-than-air.",
-            "Single-engine land and sea, multiengine land and sea."
-        ],
-        "correct": 1
     },
     {
         "question": "The vertical limit of Class C airspace above the primary airport is normally",
@@ -792,15 +351,6 @@
         "correct": 0
     },
     {
-        "question": "Which light signal from the control tower clears a pilot to taxi?",
-        "choices": [
-            "Flashing green.",
-            "Flashing white.",
-            "Steady green."
-        ],
-        "correct": 0
-    },
-    {
         "question": "What feature is associated with a temperature inversion?",
         "choices": [
             "An unstable layer of air.",
@@ -808,24 +358,6 @@
             "A stable layer of air."
         ],
         "correct": 2
-    },
-    {
-        "question": "Which would most likely cause the cylinder head temperature and engine oil temperature gauges to exceed their normal operating ranges?",
-        "choices": [
-            "Operating with higher-than-normal oil pressure.",
-            "Using fuel that has a higher-than-specified fuel rating.",
-            "Using fuel that has a lower-than-specified fuel rating."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "When flying at a very high AOA with a low airspeed and aft CG, T-tail aircraft are more susceptible to __________ ?",
-        "choices": [
-            "dutch roll",
-            "a deep stall",
-            "adverse yaw"
-        ],
-        "correct": 1
     },
     {
         "question": "A TAF includes:",
@@ -846,15 +378,6 @@
         "correct": 0
     },
     {
-        "question": "What is the maximum indicated airspeed you may fly when operating under BasicMed?",
-        "choices": [
-            "250 knots",
-            "180 knots",
-            "200 knots"
-        ],
-        "correct": 0
-    },
-    {
         "question": "When taxiing with strong quartering tailwinds, which aileron positions should be used?",
         "choices": [
             "Aileron down on the downwind side.",
@@ -862,15 +385,6 @@
             "Aileron down on the side from which the wind is blowing."
         ],
         "correct": 2
-    },
-    {
-        "question": "When performing an approach and landing to a soft field, what is the proper approach angle?",
-        "choices": [
-            "Shallow approach angle.",
-            "Normal approach angle.",
-            "Steep approach angle."
-        ],
-        "correct": 1
     },
     {
         "question": "A special VFR clearance authorizes the pilot of an aircraft to operate VFR while within Class D airspace when the visibility is",
@@ -900,24 +414,6 @@
         "correct": 1
     },
     {
-        "question": "You are on the ground and see a steady red light signal from the tower. What does it indicate?",
-        "choices": [
-            "Stop.",
-            "Give way to other aircraft and continue circling.",
-            "Taxi clear of the runway in use."
-        ],
-        "correct": 0
-    },
-    {
-        "question": "You have been running an excessively rich mixture for some time now. As a result:",
-        "choices": [
-            "The engine will become severely damaged due to excess fuel vapors.",
-            "The throttle response is greatly increased.",
-            "The spark plugs may become fouled."
-        ],
-        "correct": 2
-    },
-    {
         "question": "Unless otherwise authorized, the maximum indicated airspeed at which aircraft may be flown when at or below 2,500 feet AGL and within 4 nautical miles of the primary airport of Class C airspace is",
         "choices": [
             "250 knots.",
@@ -945,47 +441,11 @@
         "correct": 0
     },
     {
-        "question": "The recommended entry position to an airport traffic pattern is",
-        "choices": [
-            "to enter 45° at the midpoint of the downwind leg at traffic pattern altitude.",
-            "to cross directly over the airport at traffic pattern altitude and join the downwind leg.",
-            "45° to the base leg just below traffic pattern altitude."
-        ],
-        "correct": 0
-    },
-    {
-        "question": "While taxiing, a pilot sees a red sign ahead with white letters showing the number “33” on it. What does this sign indicate?",
-        "choices": [
-            "The pilot is approaching an entrance to runway 33 at the approach threshold.",
-            "The pilot has 3300 feet of taxiway remaining until the end of the taxiway.",
-            "The pilot is approaching an entrance to runway 33 at the departure end."
-        ],
-        "correct": 0
-    },
-    {
-        "question": "Before passengers can be carried in an aircraft that has been altered in a manner that may have appreciably changed its flight characteristics, it must be flight tested by an appropriately-rated pilot who holds at least a",
-        "choices": [
-            "Commercial Pilot Certificate with an instrument rating.",
-            "Commercial Pilot Certificate and a mechanic's certificate.",
-            "Private Pilot Certificate."
-        ],
-        "correct": 2
-    },
-    {
         "question": "The lateral dimensions of Class D airspace are based on",
         "choices": [
             "the instrument procedures for which the controlled airspace is established.",
             "the number of airports that lie within the Class D airspace.",
             "5 statute miles from the geographical center of the primary airport."
-        ],
-        "correct": 0
-    },
-    {
-        "question": "When operating under BasicMed, where do you need to retain a copy of the Comprehensive Medical Examination Checklist (CMEC)?",
-        "choices": [
-            "In your logbook (paper or electronic).",
-            "In your possession when operating as PIC on a flight.",
-            "At the office of the medical professional who performed your assessment."
         ],
         "correct": 0
     },
@@ -997,15 +457,6 @@
             "The excessively rich mixture will create higher cylinder head temperatures and may cause detonation."
         ],
         "correct": 0
-    },
-    {
-        "question": "Where should a private pilot record preventive maintenance action performed on an airplane?",
-        "choices": [
-            "No record-keeping is required.",
-            "Maintenance logbooks",
-            "Pilot flight logbooks"
-        ],
-        "correct": 1
     },
     {
         "question": "What are the reporting requirements for a pilot convicted of possessing and selling marijuana?",
@@ -1026,33 +477,6 @@
         "correct": 0
     },
     {
-        "question": "To operate an airplane under SPECIAL VFR (SVFR) within Class D airspace at night, which is required?",
-        "choices": [
-            "The Class D airspace must be specifically designated as a night SVFR area.",
-            "The pilot must hold an instrument rating, but the airplane need not be equipped for instrument flight, as long as the weather will remain at or above SVFR minimums.",
-            "The pilot must hold an instrument rating, and the airplane must be equipped for instrument flight."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "Radar weather reports are of special interest to pilots because they indicate",
-        "choices": [
-            "large areas of low ceilings and fog.",
-            "location of precipitation along with type, intensity, and trend.",
-            "location of precipitation along with type, intensity, and cell movement of precipitation."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "Airport taxiway edge lights are identified at night by",
-        "choices": [
-            "alternate red and green lights.",
-            "blue omnidirectional lights.",
-            "white directional lights."
-        ],
-        "correct": 1
-    },
-    {
         "question": "The conditions necessary for the formation of cumulonimbus clouds are a lifting action and:",
         "choices": [
             "unstable, moist air.",
@@ -1060,15 +484,6 @@
             "unstable air containing an excess of condensation nuclei."
         ],
         "correct": 0
-    },
-    {
-        "question": "(Refer to Figure 51) What information should be entered in the Level field for Item 15 on the International Flight Plan form?",
-        "choices": [
-            "Cruising speed.",
-            "Fuel level.",
-            "VFR cruising altitude."
-        ],
-        "correct": 2
     },
     {
         "question": "The wind at 5,000 feet AGL is southwesterly while the surface wind is southerly. This difference in direction is primarily due to",
@@ -1089,15 +504,6 @@
         "correct": 0
     },
     {
-        "question": "From whom should a departing VFR aircraft request radar traffic information during ground operations?",
-        "choices": [
-            "Tower, just before takeoff.",
-            "Ground control, on initial contact.",
-            "Clearance delivery."
-        ],
-        "correct": 1
-    },
-    {
         "question": "What cloud types would indicate convective turbulence?",
         "choices": [
             "Cirrus clouds.",
@@ -1116,15 +522,6 @@
         "correct": 2
     },
     {
-        "question": "The load factor on any airplane during a constant altitude turn is determined by:",
-        "choices": [
-            "Bank alone.",
-            "The type of aircraft being flown.",
-            "Airspeed."
-        ],
-        "correct": 0
-    },
-    {
         "question": "Lateral or roll stability is normally achieved by:",
         "choices": [
             "The design of the horizontal stabilizer/stabilator.",
@@ -1132,15 +529,6 @@
             "The design of the ailerons."
         ],
         "correct": 1
-    },
-    {
-        "question": "If your GPS receiver is equipped with WAAS—Wide Area Augmentation System—your position accuracy is:",
-        "choices": [
-            "Twelve meters.",
-            "Five meters.",
-            "Less than three meters."
-        ],
-        "correct": 2
     },
     {
         "question": "What effect does high density altitude, as compared to low density altitude, have on propeller efficiency and why?",
@@ -1161,29 +549,11 @@
         "correct": 2
     },
     {
-        "question": "A steady green light signal directed from the control tower to an aircraft in flight is a signal that the pilot",
-        "choices": [
-            "is cleared to land.",
-            "should give way to other aircraft and continue circling.",
-            "should return for landing."
-        ],
-        "correct": 0
-    },
-    {
         "question": "What action can a pilot take to aid in cooling an engine that is overheating during a climb?",
         "choices": [
             "Reduce rate of climb and increase airspeed.",
             "Reduce climb speed and increase RPM.",
             "Increase climb speed and increase RPM."
-        ],
-        "correct": 0
-    },
-    {
-        "question": "What flight visibility do you need in order to perform an acrobatic maneuver?",
-        "choices": [
-            "3 miles.",
-            "7 miles.",
-            "5 miles."
         ],
         "correct": 0
     },
@@ -1233,15 +603,6 @@
         "correct": 0
     },
     {
-        "question": "What is the minimum pilot certificate for flying in Class D airspace?",
-        "choices": [
-            "Commercial Pilot Certificate.",
-            "No minimum pilot certificate is specified for operations in Class D airspace.",
-            "Private Pilot Certificate."
-        ],
-        "correct": 1
-    },
-    {
         "question": "How often must the aircraft’s ELT be inspected?",
         "choices": [
             "Within 12 calendar months of the last inspection",
@@ -1249,15 +610,6 @@
             "Within 24 calendar months of the last inspection"
         ],
         "correct": 0
-    },
-    {
-        "question": "In order to determine your distance flown, you would multiply time by:",
-        "choices": [
-            "Indicated airspeed.",
-            "Groundspeed.",
-            "Equivalent airspeed."
-        ],
-        "correct": 1
     },
     {
         "question": "What would be a symptom of hyperventilation?",
@@ -1278,15 +630,6 @@
         "correct": 2
     },
     {
-        "question": "Each person operating an aircraft at a VFR cruising altitude shall maintain an odd-thousand plus 500-foot altitude while on a",
-        "choices": [
-            "magnetic heading of 0° through 179°.",
-            "magnetic course of 0° through 179°.",
-            "true course of 0° through 179°."
-        ],
-        "correct": 1
-    },
-    {
         "question": "A Third-Class Medical Certificate is issued to a 51-year-old pilot on May 3, this year. To exercise the privileges of a Private Pilot Certificate, the medical certificate will be valid until midnight on",
         "choices": [
             "May 3, 1 year later.",
@@ -1296,33 +639,6 @@
         "correct": 2
     },
     {
-        "question": "An ATC radar facility issues the following advisory to a pilot flying on a heading of 090°: 'TRAFFIC 3 O'CLOCK, 2 MILES, WESTBOUND...' Where should the pilot look for this traffic?",
-        "choices": [
-            "West.",
-            "South.",
-            "East."
-        ],
-        "correct": 1
-    },
-    {
-        "question": "An ATC radar facility issues the following advisory to a pilot flying on a heading of 360°: 'TRAFFIC 10 O'CLOCK, 2 MILES, SOUTHBOUND...' Where should the pilot look for this traffic?",
-        "choices": [
-            "Southwest.",
-            "Northeast.",
-            "Northwest."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "Which aircraft has the right-of-way over the other aircraft listed?",
-        "choices": [
-            "Aircraft towing other aircraft.",
-            "Gyroplane.",
-            "Airship."
-        ],
-        "correct": 0
-    },
-    {
         "question": "In which situation is advection fog most likely to form?",
         "choices": [
             "An air mass moving inland from the coast in winter.",
@@ -1330,15 +646,6 @@
             "A light breeze blowing colder air out to sea."
         ],
         "correct": 0
-    },
-    {
-        "question": "What does a positive indication tell you on an ammeter?",
-        "choices": [
-            "The battery will run out of electrical power soon",
-            "Amount of volts in the electrical system",
-            "The charging rate of the battery"
-        ],
-        "correct": 2
     },
     {
         "question": "If a pilot suspects that the engine (with a fixed-pitch propeller) is detonating during climb-out after takeoff, the initial corrective action to take would be to",
@@ -1357,15 +664,6 @@
             "Thunderstorms obscured by massive cloud layers."
         ],
         "correct": 2
-    },
-    {
-        "question": "To meet the recency of experience requirements to act as pilot in command carrying passengers at night, a pilot must have made at least three takeoffs and three landings to a full stop within the preceding 90 days in:",
-        "choices": [
-            "any aircraft.",
-            "the same category and class of aircraft to be used.",
-            "the same type of aircraft to be used."
-        ],
-        "correct": 1
     },
     {
         "question": "Induced drag increases with:",
@@ -1427,15 +725,6 @@
             "are thunderstorms in the area.",
             "has been a cold frontal passage.",
             "is a temperature inversion with freezing rain at a higher altitude."
-        ],
-        "correct": 2
-    },
-    {
-        "question": "On the calculator side of the flight computer, time is always found on which scale(s)?",
-        "choices": [
-            "Outer scale.",
-            "Inner scale only.",
-            "Inner scale and far inner scale."
         ],
         "correct": 2
     },
@@ -1564,5 +853,32 @@
             "may refer to it in the AFM, no further action is needed."
         ],
         "correct": 1
+    },
+    {
+        "question": "In what controlled airspace are you not required to contact ATC when flying in VMC?",
+        "choices": [
+            "TRSA.",
+            "Class C.",
+            "Class D."
+        ],
+        "correct": 0
+    },
+    {
+        "question": "FAA advisory circulars (some free, others at cost) are available to all pilots and are obtained by",
+        "choices": [
+            "distribution from the nearest FAA district office.",
+            "ordering those desired from the Government Printing Office.",
+            "subscribing to the Federal Register."
+        ],
+        "correct": 1
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            ""
+        ],
+        "correct": 0
     }
 ]
